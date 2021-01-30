@@ -1,0 +1,25 @@
+{
+  "name": "kadutecnologia",
+  "version": "1.0.0",
+  "description": "<!--\r **kadutecnologia/kadutecnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadutecnologia/kadutecnologia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadutecnologia/kadutecnologia/issues"
+  },
+  "homepage": "https://github.com/kadutecnologia/kadutecnologia#readme",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
