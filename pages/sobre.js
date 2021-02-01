@@ -3,7 +3,9 @@ import Template from "./components/template.js"
 function Sobre(){
     return (<div>
         <Template />
-        <h2>SobreA</h2>
+        <main>
+            <h2>SobreA</h2>
+        </main>
     </div>)
 }
 

@@ -5,8 +5,7 @@ import Footer from "./footer.js"
 function Template(){
     return (<div>
         <Header/>
-        <Footer/>
-        
+        <Footer/>        
     </div>)
 }
 

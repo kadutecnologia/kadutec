@@ -1,5 +1,8 @@
 function Header(){
-    return <header>HEADER A</header>
+    return <header> 
+        <h1>KADU</h1>
+        <p>Tecnologia</p>
+    </header>
 }
 
 export default Header
