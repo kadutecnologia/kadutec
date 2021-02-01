@@ -9,4 +9,4 @@ function Kadu(){
     </div>)
 }
 
-export default Sobre
+export default Kadu
