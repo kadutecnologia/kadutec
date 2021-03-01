@@ -8,7 +8,7 @@ import DivBgImg from "./components_external/DivBgImg.js";
 function Home() {
   return (
     <Template>
-      {/* <Head>
+      <Head>
         <FBComponent
           ogUrl=""
           title="KADUPERES.com | Tecnologia, aprendizado e informação!"
@@ -25,8 +25,7 @@ function Home() {
           Tecnologia, aprendizado e informação!
         </div>
       </div>
-      <BgVideo videoUrl="./assets/video/bg.mp4" /> */}
-      kadu
+      <BgVideo videoUrl="./assets/video/bg.mp4" />
     </Template>
   );
 }
