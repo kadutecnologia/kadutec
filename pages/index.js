@@ -10,11 +10,11 @@ function Home() {
     <Template>
       <Head>
         <FBComponent
-          ogUrl=""
+          ogUrl="http://www.kaduperes.com"
           title="KADUPERES.com | Tecnologia, aprendizado e informação!"
           description="Aprenda, descubra dicas úteis e informações sobre tecnologia!"
-          image=""
-          appId=""
+          image="https://kaduperes.com/assets/img/FBShare.jpg"
+          appId="1030609374013900"
         />
       </Head>
       <div className="flex col vCenter hCenter h100vh">
