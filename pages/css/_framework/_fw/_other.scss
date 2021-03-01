@@ -1,0 +1,40 @@
+.noScrollHor {
+  overflow-x: hidden;
+}
+.noScrollHorDisable {
+  overflow-x: unset;
+}
+.noScrollVer {
+  overflow-y: hidden;
+}
+.noScrollVerDisable {
+  overflow-y: unset;
+}
+@media (min-width: $md) {
+  .md-noScrollHor {
+    overflow-x: hidden;
+  }
+  .md-noScrollHorDisable {
+    overflow-x: unset;
+  }
+  .md-noScrollVer {
+    overflow-y: hidden;
+  }
+  .md-noScrollVerDisable {
+    overflow-y: unset;
+  }
+}
+@media (min-width: $lg) {
+  .lg-noScrollHor {
+    overflow-x: hidden;
+  }
+  .lg-noScrollHorDisable {
+    overflow-x: unset;
+  }
+  .lg-noScrollVer {
+    overflow-y: hidden;
+  }
+  .lg-noScrollVerDisable {
+    overflow-y: unset;
+  }
+}

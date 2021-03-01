@@ -1,12 +1,9 @@
-import App from "../_app.js"
-import Header from "./header.js"
-import Footer from "./footer.js"
+import App from "../_app";
+import Header from "./header";
+import Footer from "./footer";
 
-function Template(){
-    return (<div>
-        <Header/>
-        <Footer/>
-    </div>)
+function Template({ children }) {
+  return <main>{children}</main>;
 }
 
-export default Template
+export default Template;

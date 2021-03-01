@@ -1,0 +1,32 @@
+.noBorder {
+  border: 0px;
+}
+@media (min-width: $md) {
+  .md-noBorder {
+    border: 0px;
+  }
+}
+@media (min-width: $lg) {
+  .md-noBorder {
+    border: 0px;
+  }
+}
+
+.round {
+  border-radius: 50%;
+}
+
+@media (min-width: $md) {
+  .md-round {
+    border-radius: 50%;
+  }
+}
+@media (min-width: $lg) {
+  .lg-round {
+    border-radius: 50%;
+  }
+}
+
+.bRadius4px {
+  border-radius: 4px;
+}

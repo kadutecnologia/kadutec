@@ -1,0 +1,20 @@
+.image,
+.imgCover {
+  background-size: cover;
+  background-position: center;
+}
+
+@media (mind-width: $md) {
+  .image,
+  .md-imgCover {
+    background-size: cover;
+    background-position: center;
+  }
+}
+@media (mind-width: $lg) {
+  .image,
+  .lg-imgCover {
+    background-size: cover;
+    background-position: center;
+  }
+}

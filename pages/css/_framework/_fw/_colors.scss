@@ -1,0 +1,15 @@
+/*#region COLOR*/
+.cWhite {
+  color: white;
+}
+@media (min-width: $md) {
+  .md-cWhite {
+    color: white;
+  }
+}
+@media (min-width: $lg) {
+  .lg-cWhite {
+    color: white;
+  }
+}
+/*#endregion */

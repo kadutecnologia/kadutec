@@ -1,0 +1,33 @@
+/*#region Text Align*/
+
+.alignLeft {
+  text-align: left;
+}
+.alignRight {
+  text-align: right;
+}
+.alignCenter {
+  text-align: center;
+}
+@media (min-width: $md) {
+  .md-alignLeft {
+    text-align: left;
+  }
+  .md-alignRight {
+    text-align: right;
+  }
+  .md-alignCenter {
+    text-align: center;
+  }
+}
+@media (min-width: $lg) {
+  .lg-alignLeft {
+    text-align: left;
+  }
+  .lg-alignRight {
+    text-align: right;
+  }
+  .lg-alignCenter {
+    text-align: center;
+  }
+}

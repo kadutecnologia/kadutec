@@ -1,0 +1,14 @@
+.round {
+  border-radius: 50%;
+}
+
+@media (min-width: $md) {
+  .md-round {
+    border-radius: 50%;
+  }
+}
+@media (min-width: $lg) {
+  .lg-round {
+    border-radius: 50%;
+  }
+}
