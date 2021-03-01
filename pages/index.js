@@ -1,5 +1,4 @@
 import Template from "./components/template.js";
-import Card from "./components/card";
 import FBComponent from "./components_external/FBComponent";
 import BgVideo from "./components_external/BgVideo";
 import Head from "next/head";
